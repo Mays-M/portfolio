@@ -1,0 +1,1 @@
+# Example of portfolio to the beginner ict student 
