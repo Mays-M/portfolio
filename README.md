@@ -10,30 +10,29 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 - [Contact](https://mays-m.github.io/portfolio/#contact)
 
 ## About Me
-I am a passionate developer with a keen interest in [your areas of interest, e.g., web development, data science, machine learning]. With a background in [your background, e.g., computer science, software engineering], I enjoy solving complex problems and continuously learning new technologies. This portfolio is a reflection of my journey and the various projects I've worked on.
+I am a passionate developer with a keen interest in Cybersecurity . With a background in  Technology engineering, I enjoy solving complex problems and continuously learning new technologies. This portfolio is a reflection of my journey and the various projects I've worked on.
 
 ## Projects
 This section highlights some of the key projects I've worked on. Each project includes a brief description, key features, and links to the project repository or live demo.
 
-- **Project 1**: [Project Title](link-to-repo)
+- **Project 1**: [Research: Artificial Intelligence Cyberattacks in Red Teaming: A Scoping Review](https://link.springer.com/chapter/10.1007/978-3-031-60215-3_13))
   - Description: A brief description of the project.
   - Key Features: Feature 1, Feature 2, Feature 3.
 
-- **Project 2**: [Project Title](link-to-repo)
+- **Project 2**: [Online Store](https://mays-m.github.io/Online-Store/))o)
   - Description: A brief description of the project.
   - Key Features: Feature 1, Feature 2, Feature 3.
 
-For a full list of projects, please check the [Projects](link-to-projects-section) section.
+For a full list of projects, please check the [Projects](https://mays-m.github.io/portfolio/#project)) section.
 
 ## Skills
 Here are some of the skills and technologies I am proficient in:
-- Programming Languages: Language 1, Language 2, Language 3
-- Frameworks and Libraries: Framework 1, Library 2, Library 3
-- Tools and Platforms: Tool 1, Platform 2, Platform 3
+- Programming Languages: Python, JavaScript, Php
+- Frameworks and Libraries:Robot Framework, Selenium, Microsoft Power Platform
+- Tools and Platforms: Windows, Linux
 
 ## Contact
 Feel free to reach out to me for any inquiries, collaborations, or just to say hi! You can contact me via:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mays-alazzawi))
 
 Thank you for visiting my portfolio! I hope you find my work interesting and insightful.
