@@ -23,10 +23,15 @@ This section highlights some of the key projects I've worked on. Each project in
   - Description: A brief description of the project.
   - Key Features:
     . User Authentication: Options for users to sign in and register.
+    
     . Product Categories: Various categories such as perfumes (for men, women, and unisex), health and wellness products.
+    
     . Product Variety: Over 1000 products available.
+    
     . Information Sections: Details about the company, careers, blog, and help center.
+    
     . User-Friendly Interface: Simple navigation and clean design inspired by popular e-commerce platforms.
+    
 
 For a full list of projects, please check the [Projects](https://mays-m.github.io/portfolio/#project) section.
 
