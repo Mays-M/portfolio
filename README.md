@@ -15,7 +15,7 @@ I am a passionate developer with a keen interest in Cybersecurity . With a backg
 ## Projects
 This section highlights some of the key projects I've worked on. Each project includes a brief description, key features, and links to the project repository or live demo.
 
-- **Project 1**: [Research: Artificial Intelligence Cyberattacks in Red Teaming: A Scoping Review](https://link.springer.com/chapter/10.1007/978-3-031-60215-3_13))
+- **Project 1**: [Research: Artificial Intelligence Cyberattacks in Red Teaming: A Scoping Review](https://link.springer.com/chapter/10.1007/978-3-031-60215-3_13)
   - Description: A brief description of the project.
   - Key Features: Feature 1, Feature 2, Feature 3.
 
@@ -23,16 +23,18 @@ This section highlights some of the key projects I've worked on. Each project in
   - Description: A brief description of the project.
   - Key Features: Feature 1, Feature 2, Feature 3.
 
-For a full list of projects, please check the [Projects](https://mays-m.github.io/portfolio/#project)) section.
+For a full list of projects, please check the [Projects](https://mays-m.github.io/portfolio/#project) section.
 
 ## Skills
 Here are some of the skills and technologies I am proficient in:
 - Programming Languages: Python, JavaScript, Php
-- Frameworks and Libraries:Robot Framework, Selenium, Microsoft Power Platform
-- Tools and Platforms: Windows, Linux
+- Frameworks and Libraries: Robot Framework, Selenium, Microsoft Power Platform
+- Platforms: Windows, Linux
+- Ehical hacking Tools: Wireshark, Burp Suite, Ida reverse engineering, Metasploit,
+- Vulnerability Management: Nessus, Greenbone
 
 ## Contact
 Feel free to reach out to me for any inquiries, collaborations, or just to say hi! You can contact me via:
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mays-alazzawi))
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mays-alazzawi)
 
 Thank you for visiting my portfolio! I hope you find my work interesting and insightful.
