@@ -21,6 +21,7 @@ This section highlights some of the key projects I've worked on. Each project in
     </p>
     
   - Key Features:
+    
     . Comprehensive Literature Review: Analysis of existing research on AI in cyberattacks.
     
     . Red Teaming Focus: Examination of how AI is integrated into red teaming strategies.
@@ -36,6 +37,7 @@ This section highlights some of the key projects I've worked on. Each project in
     <p>This project is a comprehensive online store featuring a wide variety of products, primarily focusing on perfumes and health   and wellness items. Users can browse through different categories, view detailed product descriptions, and manage their shopping cart. The site offers user authentication for a personalized shopping experience and includes sections such as About Us, Careers, Blog, and a Help Center to enhance user engagement and support. The clean, user-friendly interface makes navigation intuitive and seamless.</p>
     
   - Key Features:
+    
     . User Authentication: Options for users to sign in and register.
     
     . Product Categories: Various categories such as perfumes (for men, women, and unisex), health and wellness products.
