@@ -3,10 +3,11 @@
 Welcome to my portfolio repository! This repository showcases my projects, skills, and experiences as a developer. Here, you will find a collection of my work, project documentation, and other relevant materials that demonstrate my capabilities and interests in the field of software developmen and other Tech fields.
 
 ## Table of Contents
-- [About Me](https://mays-m.github.io/portfolio/#about))
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+- [Home](https://mays-m.github.io/portfolio/#home)
+- [About Me](https://mays-m.github.io/portfolio/#about)
+- [Skills](https://mays-m.github.io/portfolio/#services)
+- [Projects](https://mays-m.github.io/portfolio/#project)
+- [Contact](https://mays-m.github.io/portfolio/#contact)
 
 ## About Me
 I am a passionate developer with a keen interest in [your areas of interest, e.g., web development, data science, machine learning]. With a background in [your background, e.g., computer science, software engineering], I enjoy solving complex problems and continuously learning new technologies. This portfolio is a reflection of my journey and the various projects I've worked on.
